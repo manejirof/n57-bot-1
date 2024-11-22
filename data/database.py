@@ -198,10 +198,10 @@ class Database:
 
 
 db = Database(
-    DB_NAME='secret_chat_db',
+    DB_NAME='railway',
     DB_USER='root',
-    DB_PASSWORD='1871724143_Shahzod',
-    DB_HOST='localhost',
+    DB_PASSWORD='ZaONtRRhwIJWvviuNbiJXajOsnOfKzlk',
+    DB_HOST='mysql.railway.internal',
     DB_PORT=3306
 )
 
